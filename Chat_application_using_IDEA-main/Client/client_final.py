@@ -7,7 +7,7 @@ import PySimpleGUI as sg
 from time import sleep
 
 HEADERSIZE = 10
-HOST = '192.168.100.11'
+HOST = '192.168.1.66'
 PORT = 7890
 
 USERNAME = sg.PopupGetText("Enter username:", no_titlebar=True)

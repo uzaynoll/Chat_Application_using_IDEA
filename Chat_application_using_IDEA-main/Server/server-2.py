@@ -4,7 +4,7 @@ from Key_generation import create_key
 import pickle
 
 HEADERSIZE = 10
-HOST = '192.168.100.11'
+HOST = '192.168.1.66'
 PORT = 7890
 
 clients = list()
